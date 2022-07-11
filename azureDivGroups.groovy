@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 
-// Declare imports
+// Declare imports ()
 import groovy.sql.Sql
 import com.unboundid.asn1.*
 import com.unboundid.ldap.sdk.*
